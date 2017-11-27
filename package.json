@@ -7,6 +7,4 @@
   "scripts": {
     "start": "node bot.js"
   },
-  "dependencies": {
-    "discord.js": "11.1.0",
 }
