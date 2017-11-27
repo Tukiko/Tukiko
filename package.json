@@ -3,6 +3,5 @@
   "description": "For Heroku 24/7",
   "version": "1.0.0",
   "main": "bot.js",
-  "token": "MzgzNDM0MzM1MTc4NDU3MDk4.DPorBg.OaLt_UGaMbldGfJ3o15hsEgILvU",
   "prefix": "="
 }
