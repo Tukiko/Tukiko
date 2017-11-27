@@ -6,5 +6,5 @@
   "prefix": "=",
   "scripts": {
     "start": "node bot.js"
-  },
+  }
 }
