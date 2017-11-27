@@ -455,4 +455,4 @@ if(command === "userinfo") {
 
 //Functions---------------------------------------------------------------------------------------
 
-client.login(proccess.env.config.token);
+client.login(proccess.env.BOT_TOKEN);
